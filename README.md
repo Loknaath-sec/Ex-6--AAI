@@ -1,4 +1,4 @@
-# Exp-06 Implementation of Semantic ANalysis
+# Exp-06 Implementation of Semantic Analysis
 ## Name : Loknaath P
 ## Register No: 212223240080
 ## DATE: 
