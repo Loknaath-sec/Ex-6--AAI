@@ -55,6 +55,8 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/8198a863-391a-4cab-a259-23b223c73a9e)
+
 ![image](https://github.com/user-attachments/assets/0374dd42-5bf6-4251-ba1b-c60d4ed1a2d5)
 ![image](https://github.com/user-attachments/assets/b10af769-7117-40e6-888b-7b5783b3aae4)
 
